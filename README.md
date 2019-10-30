@@ -1,4 +1,4 @@
-# [CoreUI Admin Dashboard](https://coreui.io)
+# [CoreUI Admin Dashboard](https://admin-dashboards.com/bootstrap-dashboard-coreui)
 
 This admin template is one of the most popular open-source admin panel templates built on top of Bootstrap. 
 **[CoreUI admin dashboard](https://coreui.io)** delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps.
@@ -54,5 +54,5 @@ $ npm run build # production build
 <br />
 
 ---
-[CoreUI Admin Dashboard](https://coreui.io) - provided by **Admin-Dashboards.com**
+[CoreUI Admin Dashboard](https://admin-dashboards.com/bootstrap-dashboard-coreui) - provided by **Admin-Dashboards.com**
 
